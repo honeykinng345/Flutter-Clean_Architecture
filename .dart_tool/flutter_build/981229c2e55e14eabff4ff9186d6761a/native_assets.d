@@ -1,0 +1,1 @@
+ /Users/rehan/Documents/ncs-flutter/Flutter-Bloc-Clean-Architecture/.dart_tool/flutter_build/981229c2e55e14eabff4ff9186d6761a/native_assets.yaml: 
