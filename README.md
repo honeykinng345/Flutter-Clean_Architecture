@@ -35,7 +35,7 @@ The app uses the Floor library to interact with a local SQLite database. News ar
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yunus6116/Flutter-Bloc-Clean-Architecture.git
+   git clone https://github.com/honeykinng345/Flutter-Clean_Architecture
 
 2. Navigate to the project directory:
     ```bash
